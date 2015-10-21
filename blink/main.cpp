@@ -1,6 +1,6 @@
 #include <wiringPi.h>
 
-#define PIN 2
+#define PIN 22
 
 int main(void){
   wiringPiSetup();
